@@ -1,8 +1,11 @@
 # PEC3_Manovich_Reloaded
 
 Autor: Carlos López Muñoz.
+
 Asignatura: Cultura Digital.
+
 Universidad: Universitat Oberto de Catalunya \(UOC\).
+
 Fecha: 23-05-2024.
 
 ## PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
