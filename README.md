@@ -75,9 +75,9 @@ En resumen, MetaHorizon es un ejemplo de hibridación en el ámbito de las plata
 
 - Jose García. A falta de metaverso, una plataforma social en realidad virtual: 'Horizon Worlds' llega a España oficialmente. Xataka [en línea] [consulta: 05 2024]. Lugar de publicación: [https://www.xataka.com/realidad-virtual-aumentada/a-falta-metaverso-plataforma-social-realidad-virtual-horizon-worlds-llega-a-espana-oficialmente](https://www.xataka.com/realidad-virtual-aumentada/a-falta-metaverso-plataforma-social-realidad-virtual-horizon-worlds-llega-a-espana-oficialmente)
 
-- Markdown. Lenguaje estándar para la traducción del ensayo a formato html para github [en línea]: [https://markdown.es/](https://markdown.es/)
+- Markdown. Lenguaje estándar para la traducción del ensayo formato github [en línea]: [https://markdown.es/](https://markdown.es/)
 
-- Stackedit. Editor en linea de sintaxis Markdown para transformar el código en html para github [en línea]: [https://stackedit.io/](https://stackedit.io/)
+- Stackedit. Editor en linea de sintaxis Markdown en linea [en línea]: [https://stackedit.io/](https://stackedit.io/)
 
 - Github. Publicación del ensayo en Github [en línea]: [https://docs.github.com/es](https://docs.github.com/es)
 
