@@ -4,7 +4,7 @@ Autor: Carlos López Muñoz.
 
 Asignatura: Cultura Digital.
 
-Universidad: Universitat Oberto de Catalunya \(UOC\).
+Universidad: Universitat Oberta de Catalunya \(UOC\).
 
 Fecha: 23-05-2024.
 
