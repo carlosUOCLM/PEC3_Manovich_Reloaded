@@ -61,26 +61,30 @@ En resumen, MetaHorizon es un ejemplo de hibridación en el ámbito de las plata
 
 ### Bibliografía/Webgrafía
 
-- Manovich, Lev. El software toma el mando [en línea]. Lugar de publicación: Descarga Material UOC.
+- Manovich, Lev. El software toma el mando. Lugar de publicación: Descarga Material UOC.
 
-- Ferran Adell Español. Fundamentos y evolución de la multimedia. 1.4. La hibridación de los medios [en línea] [consulta: 05 2024]. Lugar de publicación: [https://cultura-digital.aula.uoc.edu/es/1-4-la-hibridacion-de-los-medios/](https://cultura-digital.aula.uoc.edu/es/1-4-la-hibridacion-de-los-medios/)
+- Ferran Adell Español. Fundamentos y evolución de la multimedia. 1.4. La hibridación de los medios. [Enlace](https://cultura-digital.aula.uoc.edu/es/1-4-la-hibridacion-de-los-medios/)
 
-- Wikipedia. The Last of Us [en línea] [consulta: 05 2024]. Lugar de publicación: [https://es.wikipedia.org/wiki/The_Last_of_Us](https://es.wikipedia.org/wiki/The_Last_of_Us)
+- Wikipedia. The Last of Us (2024). [Enlace](https://es.wikipedia.org/wiki/The_Last_of_Us)
 
-- Fandom. THE LAST OF US [en línea] [consulta: 05 2024]. Lugar de publicación: [https://thelastofus.fandom.com/es/wiki/The_Last_of_Us](https://thelastofus.fandom.com/es/wiki/The_Last_of_Us)
+- Fandom. THE LAST OF US (2024). [Enlace](https://thelastofus.fandom.com/es/wiki/The_Last_of_Us)
 
-- Wikipedia. Horizon Worlds [en línea] [consulta: 05 2024]. Lugar de publicación: [https://es.wikipedia.org/wiki/Horizon_Worlds](https://es.wikipedia.org/wiki/Horizon_Worlds)
+- Wikipedia. Horizon Worlds (2024). [Enlace](https://es.wikipedia.org/wiki/Horizon_Worlds)
 
-- Enrique Pérez. Facebook Horizon es 'Second Life' en realidad virtual: un ambicioso universo multijugador que llegará en 2020. Xataka [en línea] [consulta: 05 2024]. Lugar de publicación: [https://www.xataka.com/realidad-virtual-aumentada/facebook-horizon-second-life-realidad-virtual-ambicioso-universo-multijugador-que-llegara-2020](https://www.xataka.com/realidad-virtual-aumentada/facebook-horizon-second-life-realidad-virtual-ambicioso-universo-multijugador-que-llegara-2020)
+- Enrique Pérez. Facebook Horizon es 'Second Life' en realidad virtual: un ambicioso universo multijugador que llegará en 2020. Xataka (2024). [Enlace](https://www.xataka.com/realidad-virtual-aumentada/facebook-horizon-second-life-realidad-virtual-ambicioso-universo-multijugador-que-llegara-2020)
 
-- Jose García. A falta de metaverso, una plataforma social en realidad virtual: 'Horizon Worlds' llega a España oficialmente. Xataka [en línea] [consulta: 05 2024]. Lugar de publicación: [https://www.xataka.com/realidad-virtual-aumentada/a-falta-metaverso-plataforma-social-realidad-virtual-horizon-worlds-llega-a-espana-oficialmente](https://www.xataka.com/realidad-virtual-aumentada/a-falta-metaverso-plataforma-social-realidad-virtual-horizon-worlds-llega-a-espana-oficialmente)
+- Jose García. A falta de metaverso, una plataforma social en realidad virtual: 'Horizon Worlds' llega a España oficialmente. Xataka (2024). [Enlace](https://www.xataka.com/realidad-virtual-aumentada/a-falta-metaverso-plataforma-social-realidad-virtual-horizon-worlds-llega-a-espana-oficialmente)
 
-- Markdown. Lenguaje estándar para la traducción del ensayo formato github [en línea]: [https://markdown.es/](https://markdown.es/)
+- Markdown. Lenguaje estándar para la traducción del ensayo formato github (2024): [Enlace](https://markdown.es/)
 
-- Stackedit. Editor en linea de sintaxis Markdown en linea [en línea]: [https://stackedit.io/](https://stackedit.io/)
+- Stackedit. Editor en linea de sintaxis Markdown en linea: [Enlace](https://stackedit.io/)
 
-- Github. Publicación del ensayo en Github [en línea]: [https://docs.github.com/es](https://docs.github.com/es)
+- Github. Lugar de publicación del ensayo: [Enlace](https://docs.github.com/es)
 
-- Github. Para la creación de un repositorio [en línea] [consulta: 05 2024]: [https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories](https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories)
+- Github. Para la creación de un repositorio (2024): [Enlace](https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories)
 
-- OpenAI. (2024). ChatGPT 3.5 (versión 15 de mayo) para la elección del tema y la corrección ortográfica [en línea]: [https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)
+- OpenAI. (2024). ChatGPT 3.5 (versión 15 de mayo) para la elección del tema y la corrección ortográfica (2024): [Enlace](https://chat.openai.com/auth/login)
+  
+- Web oficial Naughty Dog. [Enlace](https://www.naughtydog.com/)
+  
+- Web oficial Meta Horizon. [Enlace](https://horizon.meta.com/?locale=en_US)
